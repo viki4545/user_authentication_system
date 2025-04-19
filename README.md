@@ -22,11 +22,11 @@ A complete full-stack authentication system built with React.js, Redux Toolkit, 
 
 ### 🔒 Forgot Password Page
 
-![Forgot Password](/screenshots/forgot_password.png)
+![Forgot Password](/screenshots/forgot_password.PNG)
 
 ### 🔒 Reset Password Page
 
-![Reset Password](/screenshots/reset_password.png)
+![Reset Password](/screenshots/reset_password.PNG)
 
 ---
 
